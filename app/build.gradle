@@ -97,6 +97,9 @@ dependencies {
     implementation deps.google.firebase.cloud_messaging
 
 
+  //CardView
+  implementation deps.android.support.cardView
+
 
     testImplementation deps.junit
 
